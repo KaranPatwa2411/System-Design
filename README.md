@@ -8,12 +8,12 @@ reliable systems.
 
 ## 📁 Repository Structure
 
-### 1. `system-design-concepts/`
+### 1. `System_Design_Concepts/`
 Core topics explained with **clear diagrams, trade-offs, and examples**.  
 Covers the "building blocks" of system design, such as:
 
 
-### 2. `design-case-studies/`
+### 2. `System_Design_Examples/`
 Practical **end-to-end designs** for real-world systems:
 
 
