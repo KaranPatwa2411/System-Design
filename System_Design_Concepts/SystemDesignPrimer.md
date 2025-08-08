@@ -534,4 +534,3 @@ So, grab your blueprint, channel your inner architect, and start building system
 
 - Practice with real-world problems like “Design Twitter” or “Design YouTube.”
 - Dive deeper into each component (e.g., database sharding, cache eviction policies).
-- Check out systemdesignschool.io for more resources!
