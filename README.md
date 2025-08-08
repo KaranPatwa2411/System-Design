@@ -1,4 +1,4 @@
-# 🏗️ System Design Playbook
+# 🏗️ System Design Repo
 
 A curated collection of **system design concepts** and **real-world case studies**  
 to help engineers prepare for **system design interviews** and build scalable,  
